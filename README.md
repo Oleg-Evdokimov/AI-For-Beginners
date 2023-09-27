@@ -168,3 +168,6 @@ Our team produces other curricula! Check out:
 - [IoT for Beginners](https://aka.ms/iot-beginners)
 - [Machine Learning for Beginners](https://aka.ms/ml-beginners)
 - [Data Science for Beginners](https://aka.ms/datascience-beginners)
+  <div id ="sch" align="center">
+<img src="https://komarev.com/ghpvc/?username=Oleg-Evdokimov&style=flat-square&color=blue" alt = ""/>
+</div>
